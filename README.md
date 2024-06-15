@@ -2,9 +2,10 @@
 
 This series of blog posts offers a comprehensive guide on utilizing YOLO models, training them with Roboflow datasets, and enhancing them with tracking capabilities using ByteTrack. Additionally, it covers formatting bounding box annotations with OpenCV to track players on a football field using computer vision techniques.
 
-![Alt text](Blog-Player-Detection-in-Football/Screenshot 2024-06-15 030225.png)
+<img width="1280" alt="Screenshot 2024-06-15 030225" src="https://github.com/yashsakhuja/Blog-Player-Detection-in-Football/assets/73343388/d86cdb44-6b5c-4cba-a136-c9185be0707f">
 
 Blogs Link:
+
 
 
 ### Getting Started with Object Detection using YOLO:

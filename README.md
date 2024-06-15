@@ -4,6 +4,8 @@ This series of blog posts offers a comprehensive guide on utilizing YOLO models,
 
 <img width="1280" alt="Screenshot 2024-06-15 030225" src="https://github.com/yashsakhuja/Blog-Player-Detection-in-Football/assets/73343388/d86cdb44-6b5c-4cba-a136-c9185be0707f">
 
+
+
 Blogs Link:
 
 

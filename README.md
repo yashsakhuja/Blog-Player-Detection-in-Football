@@ -9,11 +9,15 @@ https://sakhujayashofficia.wixsite.com/yashsakhuja/post/getting-started-with-obj
 
 Object Detection in Football (Pt. 2): 
 
-Training YOLO with a labelled Roboflow dataset: https://sakhujayashofficia.wixsite.com/yashsakhuja/post/player-detection-in-football-pt-2-training-yolo-with-a-labelled-dataset-from-roboflow
+Training YOLO with a labelled Roboflow dataset: 
+
+https://sakhujayashofficia.wixsite.com/yashsakhuja/post/player-detection-in-football-pt-2-training-yolo-with-a-labelled-dataset-from-roboflow
 
 Object Detection in Football (Pt. 3):
 
-Setting up the Tracker and Annotations: https://sakhujayashofficia.wixsite.com/yashsakhuja/post/object-detection-in-football-pt-3-setting-up-the-tracker-and-annotations
+Setting up the Tracker and Annotations: 
+
+https://sakhujayashofficia.wixsite.com/yashsakhuja/post/object-detection-in-football-pt-3-setting-up-the-tracker-and-annotations
 
 Resources:
 
